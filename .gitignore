@@ -1,0 +1,4 @@
+.idea/
+.ipynb_checkpoints/
+hair_segmentation.py
+venv/
